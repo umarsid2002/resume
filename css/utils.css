@@ -1,0 +1,111 @@
+:root{
+    --main-bg: #414B3B;
+    --main-color: #AB8742;
+    --color1: #ffebeb;
+    --color2: #8ca87c;
+}
+
+.background{
+    background-color: var(--main-bg);
+}
+
+.width-1{
+    width: 80vw;
+}
+
+.width-2{
+    width: 90vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.heading1{
+    font-size: 34px;
+}
+
+.heading2{
+    font-size: 28px;
+}
+
+.para{
+    font-size: 18px;
+    line-height: 2rem;
+}
+
+.color{
+    color: var(--color1);
+}
+
+.font1{
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.font2{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.font3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.nav-flex{
+    display: flex;
+}
+
+.no-list-style{
+    list-style: none;
+}
+
+.no-decor{
+    text-decoration: none;
+}
+
+.my-1{
+    margin: 5px 0px;
+}
+
+.my-2{
+    margin: 8px 0px;
+}
+
+.my-3{
+    margin: 12px 0px;
+}
+
+.my-4{
+    margin: 15px 0px;
+}
+
+.py-1{
+    padding: 5px 0px;
+}
+
+.py-2{
+    padding: 8px 0px;
+}
+
+.py-3{
+    padding: 12px 0px;
+}
+
+.py-4{
+    padding: 15px 0px;
+}
+
+.radius{
+    border-radius: 32px;
+}
+
+.btn{
+    background-color: var(--main-color);
+    border: transparent;
+    padding: 8px 15px;
+    border-radius: 12px;
+    z-index: 1;
+}

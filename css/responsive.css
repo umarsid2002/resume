@@ -1,0 +1,31 @@
+@media screen and (max-width: 900px) {
+    
+    .title{
+        text-align: center;
+    }
+
+    .nav-flex{
+        display: block;
+    }
+
+    .nav-items{
+        width: 100%;
+        display: flex;
+    }
+    
+    .boxes{
+        flex-direction: column;
+    }
+
+    .d-flex{
+        flex-direction: column;
+    }
+
+    .factor img{
+        width: 100%;
+    }
+
+    .factor-box{
+        flex-direction: column-reverse;
+    }
+}
